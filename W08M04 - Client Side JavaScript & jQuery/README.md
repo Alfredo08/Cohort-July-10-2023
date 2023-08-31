@@ -1,5 +1,5 @@
 # M04 W08 | Client Side JavaScript & jQuery
-[Github Repository](https://github.com/Alfredo08/Cohort-June-12-2023/tree/main/W08M04%20-%20Client%20Side%20JavaScript%20%26%20jQuery) | [Vimeo Video Recording](https://vimeo.com/852003749/e5cc1a3146?share=copy)
+[Github Repository](https://github.com/Alfredo08/Cohort-July-10-2023/tree/main/W08M04%20-%20Client%20Side%20JavaScript%20%26%20jQuery) | [Vimeo Video Recording](https://vimeo.com/859932342/5a36f39323?share=copy)
 
 ## Topics to cover
 
