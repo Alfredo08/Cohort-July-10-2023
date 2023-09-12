@@ -1,0 +1,95 @@
+/* CSS for mobile views and above */
+header, main, .product{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo{
+    text-align: center;
+}
+
+.logo > img{
+    width: 50%;
+}
+
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+    background-color: gray;
+    padding: 10px;
+    color: white;
+}
+
+.menu{
+    display: none;
+}
+
+main{
+    padding: 15px;
+    gap: 5px;
+}
+
+.product{
+    border: 1px solid rgb(161, 161, 161);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.social{
+    display: flex;
+    gap: 45px;
+    justify-content: center;
+    list-style: none;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+    padding-inline-start: 0;
+}
+
+/* CSS for tablet views and above */
+@media only screen and (min-width: 600px){
+    header{
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    h1{
+        font-size: 3em;
+    }
+
+    main{
+        align-items: normal;
+    }
+}
+
+/* CSS for larger views and above */
+@media only screen and (min-width: 992px){
+    .menu{
+        display: flex;
+        list-style: none;
+        gap: 25px;
+    }
+
+    .hamburger{
+        display: none;
+    }
+
+    .navbar{
+        padding-right: 25px;
+    }
+
+    main{
+        flex-direction: row;
+    }
+
+    .product{
+        flex: 1;
+    }
+
+    .social{
+        justify-content: space-around;
+    }
+
+}
