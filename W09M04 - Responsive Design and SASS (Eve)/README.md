@@ -1,5 +1,5 @@
 # Responsive Design and SASS
-[Github Repository](https://github.com/Alfredo08/Cohort-July-10-2023/tree/main/W09M04%20-%20Responsive%20Design%20and%20SASS) | [Vimeo Video Recording](https://vimeo.com/863710922/df59fd496d?share=copy)
+[Github Repository]() | [Vimeo Video Recording]()
 
 ## Topics to cover
 
