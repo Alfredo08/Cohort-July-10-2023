@@ -1,5 +1,5 @@
 # M08 W21 | Concluding React
-[Github Repository]() | [Vimeo Video Recording]()
+[Github Repository](https://github.com/Alfredo08/Cohort-July-10-2023/tree/main/W21M08%20-%20Concluding%20React) | [Vimeo Video Recording]()
 
 ## Topics to cover
 - [x] 1. Routes
